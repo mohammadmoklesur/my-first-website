@@ -1,0 +1,81 @@
+body{
+    font-family: 'Neonderthaw', cursive;
+}
+.a-color{
+   color: green; 
+   font-size: 50px;
+}
+.b-color{
+    color: red;
+    font-size: 50px;
+}
+.c-color{
+    color: green;
+    font-size: 50px;
+}
+#h-color{
+    color: rgb(187, 187, 4);
+    font-size: 50px;
+}
+.d-color{
+    color: red;
+    font-size: 50px;
+}
+.e-color{
+    color: green;
+    font-size: 50px;
+}
+.f-color{
+    color: red;
+    font-size: 50px;
+}
+.colorful-design{
+    width: 40%;
+    float: left;
+    padding: 40px 70px;
+    margin: 2px 5px;
+}
+.colorful-design img{
+    width: 100%;
+    padding: 40px 50px;
+    opacity: 90%;
+    border-radius: 15%;
+}
+.font-color{
+    font-size: 20px;
+    color: rgb(58, 116, 0);
+}
+#font-size{
+    font-size: 30px;
+    text-align: justify;
+}
+body{
+    background-image: url(images/background2.png);
+    background-repeat: no-repeat;
+    background-size: 3000%;
+    
+}
+.link-bouton{
+    text-decoration: none;
+    background-image: linear-gradient( 30deg, orange, tomato, red);
+    padding: 15px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+#image-size{
+    padding: 100px 23px;
+    opacity: 100%;
+    border-radius: 20%;
+    margin-top: 300px;
+}
+#font-resize{
+    width: 40%;
+   margin-left: 160px;
+   padding-top: 250px;
+
+}
+#font-center{
+float: right;
+    
+}
