@@ -77,5 +77,37 @@ body{
 }
 #font-center{
 float: right;
-    
+}
+#end-format{
+    width: 40%;
+    float: right;
+    padding-top: 250px;
+    margin: 2px 5px;
+    text-align: justify;
+    font-size: 25px;
+}
+#end-format2{
+    width: 40%;
+    float: left;
+    padding-top: 450px;
+    text-align: justify;
+    font-size: 19px;
+}
+.sadding-all{
+    box-shadow: 10px 10px 40px;
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+}
+#font-color11{
+    color: green;
+}
+#font-color22{
+    color: red;
+}
+#footer-edit{
+    text-align: right;
+    padding-top: 2700px;
+    margin-right: 100px;
+    font-size: 20px;
 }
